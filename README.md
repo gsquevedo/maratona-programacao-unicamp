@@ -1,1 +1,1 @@
-# maratona-programacao-unicamp-treinamento
+## Maratona de Programação - UNICAMP
