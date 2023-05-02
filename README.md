@@ -1,5 +1,5 @@
 ## Maratona de Programação - UNICAMP
-- Grupo de estudos realizado pelo BitMarias com foco na maratona de programação que será realizada pela Unicamp.
+- Grupo de estudos realizado pelo BitMarias com foco na maratona de programação realizada pela Unicamp.
 
 ## Tecnologia
 - JavaScript
